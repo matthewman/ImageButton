@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageButton</string>
+    <string name="textViewText">Phone number:</string>
+    <string name="textBoxHint">e.g.12345678</string>
+    <string name="buttonText">Choose image</string>
+</resources>
